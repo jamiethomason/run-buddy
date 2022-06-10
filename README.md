@@ -11,6 +11,6 @@ A website that offers fitness training services.
 [https://jamiethomason.github.io/run-buddy/](https://jamiethomason.github.io/run-buddy/)
 
 ## Contribution
-Made with ❤️ by Jamie Thomason
+Made with ❤️ by Jamie L. Thomason
 
 ### ©️2019 Run Buddy, Inc 
